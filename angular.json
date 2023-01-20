@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "basicrouting"
+  "defaultProject": "basicrouting",
+  "cli": {
+    "analytics": false
+  }
 }
